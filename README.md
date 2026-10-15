@@ -1,2 +1,2 @@
 # admissions-funnel-crm-analytics
-Synthetic, anonymised case study of CRM funnel performance and admissions operations.
+Reproducible CRM admissions analytics with synthetic data, explicit KPI definitions, data-quality checks and a configurable KPI engine.
